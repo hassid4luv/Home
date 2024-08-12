@@ -1,9 +1,9 @@
 Sure, here is a sample `README.md` file for your website code:
 
 ```markdown
-# Hotshy
+# Home Haven
 
-Welcome to Hotshy, your premier destination for finding the perfect home. This repository contains the source code for the Hotshy website.
+Welcome to Home Haven, your premier destination for finding the perfect home. This repository contains the source code for the Home Haven website.
 
 ## Table of Contents
 
@@ -17,7 +17,7 @@ Welcome to Hotshy, your premier destination for finding the perfect home. This r
 
 ## Introduction
 
-Hotshy is a modern real estate platform dedicated to helping home seekers, sellers, and investors find and share vital information about properties. Whether you're looking to buy, sell, or rent, Hotshy makes your real estate journey smarter and more rewarding.
+Home Haven is a modern real estate platform dedicated to helping home seekers, sellers, and investors find and share vital information about properties. Whether you're looking to buy, sell, or rent, Home Haven makes your real estate journey smarter and more rewarding.
 
 ## Features
 
@@ -34,11 +34,11 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/hotshy.git
+    git clone https://github.com/your-username/Home Haven.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd hotshy
+    cd Home Haven
     ```
 3. Open the `index.html` file in your preferred web browser.
 
@@ -50,7 +50,7 @@ To run this project locally, follow these steps:
 
 ## Contributing
 
-We welcome contributions to enhance the Hotshy platform. To contribute, please follow these steps:
+We welcome contributions to enhance the Home Haven platform. To contribute, please follow these steps:
 
 1. Fork the repository.
 2. Create a new branch:
@@ -73,11 +73,11 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ## Contact
 
-For any questions or feedback, please contact us at support@hotshy.com.
+For any questions or feedback, please contact us at support@Home Haven.com.
 
 ---
 
-Thank you for using Hotshy! We hope you have a great experience finding your perfect home.
+Thank you for using Home Haven! We hope you have a great experience finding your perfect home.
 ```
 
 Feel free to modify this template to better suit your specific needs.
